@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #1e6bb8;
+  color: #d23281;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -65,7 +65,7 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 2rem 6rem; } }
+    padding: 2rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
@@ -112,7 +112,7 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #2388aa; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -226,8 +226,7 @@ a {
   border-top: solid 1px #eff0f1; }
 
 .site-footer-owner {
-  display: block;
-  font-weight: bold; }
+  display: block; }
 
 .site-footer-credits {
   color: #819198; }
